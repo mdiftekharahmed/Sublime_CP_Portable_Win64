@@ -1,0 +1,621 @@
+{
+	"file_history":
+	[
+		"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
+		"/G/Sublime_Build_Win/IO/input.txt",
+		"/G/Sublime_Build_Win/IO/output.txt",
+		"/F/Dev_Env/Sublime_configs/Windows_Specific/Build_System/cpp_17.sublime-build"
+	],
+	"folder_history":
+	[
+		"/G/Sublime_CP_Portable/IO",
+		"/G/Sublime_Build_Win/IO",
+		"/G/Sublime_Build_Win/Data/Packages/User",
+		"/G/Codes/random_codes",
+		"/G/Codes/Python",
+		"/G/Codes/Problem_Solving/05_codechef_problems",
+		"/G/Codes/Problem_Solving/04-Codeforce_Problems",
+		"/G/Codes/Problem_Solving",
+		"/G/Codes/Problem_Solving/00-Problems_By_Mostafa",
+		"/G/Codes/Contest_Codes",
+		"/G/Codes/Algorithms"
+	],
+	"last_version": 4192,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1747384238,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			43.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 123.0,
+				"history":
+				[
+					"print(5)",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/G/Sublime_CP_Portable/IO/output.txt",
+				"/G/Sublime_CP_Portable/IO/input.txt",
+				"/G/Codes/random_codes/nth.cpp",
+				"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
+				"/G/Sublime_Build_Win/IO/input.txt",
+				"/G/Sublime_Build_Win/IO/output.txt",
+				"/F/Dev_Env/Sublime_configs/Windows_Specific/Build_System/cpp_17.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/cpp_17.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/G/Codes/random_codes/nth.cpp",
+					"settings":
+					{
+						"buffer_size": 480,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							74,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC5AQAAAAAAALkBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"revert",
+							null,
+							"AwAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"revert",
+							null,
+							"BAAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAAAAAAAAAAAA4AEAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADABAAAAAAAAMAEAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				},
+				{
+					"file": "/G/Sublime_CP_Portable/IO/input.txt",
+					"settings":
+					{
+						"buffer_size": 3,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "20"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAIAAAAxMAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/G/Sublime_CP_Portable/IO/output.txt",
+					"settings":
+					{
+						"buffer_size": 50,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAMCAxIDIgMyA0IDUgNiA3IDggOSAAAAAAAAAAADIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 123.0,
+				"history":
+				[
+					"print(5)",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/G/Sublime_CP_Portable/IO"
+			],
+			"file_history":
+			[
+				"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
+				"/G/Sublime_Build_Win/IO/input.txt",
+				"/G/Sublime_Build_Win/IO/output.txt",
+				"/F/Dev_Env/Sublime_configs/Windows_Specific/Build_System/cpp_17.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "G:\\Codes\\Algorithms"
+				},
+				{
+					"path": "G:\\Codes\\Contest_Codes"
+				},
+				{
+					"path": "G:\\Codes\\Problem_Solving\\00-Problems_By_Mostafa"
+				},
+				{
+					"path": "G:\\Codes\\Problem_Solving\\04-Codeforce_Problems"
+				},
+				{
+					"path": "G:\\Codes\\Problem_Solving\\05_codechef_problems"
+				},
+				{
+					"path": "G:\\Codes\\Python"
+				},
+				{
+					"path": "G:\\Codes\\random_codes"
+				},
+				{
+					"path": "G:\\Sublime_Build_Win\\Data\\Packages\\User"
+				},
+				{
+					"path": "G:\\Sublime_Build_Win\\IO"
+				},
+				{
+					"path": "G:\\Sublime_CP_Portable\\IO"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/G/Codes/random_codes/nth.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 480,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										386,
+										386
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/G/Sublime_CP_Portable/IO/input.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/G/Sublime_CP_Portable/IO/output.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 50,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.540912937809,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/cpp_17.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,760,839,101,1655,85c6df894131ca419a4223e4ae5e0f8b",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
