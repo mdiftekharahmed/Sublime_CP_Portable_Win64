@@ -240,6 +240,192 @@
 					]
 				},
 				{
+					"file": "/G/Sublime_CP_Portable/README.md",
+					"settings":
+					{
+						"buffer_size": 2387,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPYBAAAAAAAA9gEAAAAAAAAEAAAA8J+TgQ",
+							"AQAAAAAAAAABAAAA9gEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+								]
+							},
+							"AgAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA9gEAAAAAAAD3AQAAAAAAAAMAAADinJQ",
+							"AQAAAAAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "."
+							},
+							"AgAAAGkCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABqAgAAAAAAAAEAAAAt",
+							"AQAAAAAAAAABAAAAaQIAAAAAAABqAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGoCAAAAAAAAawIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAagIAAAAAAABqAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							2,
+							"left_delete",
+							null,
+							"AgAAAGoCAAAAAAAAagIAAAAAAAABAAAAIGkCAAAAAAAAaQIAAAAAAAABAAAALg",
+							"AQAAAAAAAAABAAAAawIAAAAAAABrAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAGQCAAAAAAAAZQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZAIAAAAAAABkAgAAAAAAAAAAAAAAgEBA"
+						],
+						[
+							34,
+							1,
+							"reindent",
+							null,
+							"AQAAAGUCAAAAAAAAaQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZQIAAAAAAABlAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AgAAAIsCAAAAAAAAiwIAAAAAAAABAAAALWUCAAAAAAAAZQIAAAAAAAAEAAAAICAgIA",
+							"AQAAAAAAAAABAAAAjAIAAAAAAACMAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAIcCAAAAAAAAiAIAAAAAAAAAAAAAiAIAAAAAAACMAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwIAAAAAAACHAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"left_delete",
+							null,
+							"AQAAANcCAAAAAAAA1wIAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAA2AIAAAAAAADYAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAANcCAAAAAAAA2AIAAAAAAAAAAAAA2AIAAAAAAADcAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1wIAAAAAAADXAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"left_delete",
+							null,
+							"AQAAAP0CAAAAAAAA/QIAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAA/gIAAAAAAAD+AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAP0CAAAAAAAA/gIAAAAAAAAAAAAA/gIAAAAAAAACAwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/QIAAAAAAAD9AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFADAAAAAAAAUAMAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAAUQMAAAAAAABRAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAFADAAAAAAAAUQMAAAAAAAAAAAAAUQMAAAAAAABVAwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUAMAAAAAAABQAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"left_delete",
+							null,
+							"AQAAABgCAAAAAAAAGAIAAAAAAAADAAAAYGBg",
+							"AQAAAAAAAAABAAAAGwIAAAAAAAAYAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"left_delete",
+							null,
+							"AQAAAF4CAAAAAAAAXgIAAAAAAAADAAAAYGBg",
+							"AQAAAAAAAAABAAAAYQIAAAAAAABeAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert",
+							{
+								"characters": "```"
+							},
+							"AwAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAAbAgAAAAAAABwCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGQIAAAAAAAAZAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "```"
+							},
+							"AwAAAGACAAAAAAAAYQIAAAAAAAAAAAAAYQIAAAAAAABiAgAAAAAAAAAAAABiAgAAAAAAAGMCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
 					"file": "/G/Sublime_CP_Portable/IO/input.txt",
 					"settings":
 					{
@@ -385,14 +571,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
 							"file": "/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -417,6 +602,38 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/G/Sublime_CP_Portable/README.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2387,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										611,
+										611
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 63.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
@@ -427,7 +644,7 @@
 					"sheets":
 					[
 						{
-							"buffer": 2,
+							"buffer": 3,
 							"file": "/G/Sublime_CP_Portable/IO/input.txt",
 							"selected": true,
 							"semi_transient": false,
@@ -462,7 +679,7 @@
 					"sheets":
 					[
 						{
-							"buffer": 3,
+							"buffer": 4,
 							"file": "/G/Sublime_CP_Portable/IO/output.txt",
 							"selected": true,
 							"semi_transient": false,
@@ -528,7 +745,7 @@
 				"cols":
 				[
 					0.0,
-					0.540912937809,
+					0.748819233563,
 					1.0
 				],
 				"rows":
