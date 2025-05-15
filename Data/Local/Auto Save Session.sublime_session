@@ -243,7 +243,7 @@
 					"file": "/G/Sublime_CP_Portable/README.md",
 					"settings":
 					{
-						"buffer_size": 2387,
+						"buffer_size": 2349,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -422,6 +422,42 @@
 							},
 							"AwAAAGACAAAAAAAAYQIAAAAAAAAAAAAAYQIAAAAAAABiAgAAAAAAAAAAAABiAgAAAAAAAGMCAAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABwCAAAAAAAAHQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHAIAAAAAAAAcAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAGECAAAAAAAAYgIAAAAAAAAAAAAAYgIAAAAAAABjAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQIAAAAAAABhAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAICAAAAAAAAAgIAAAAAAAABAAAALf4BAAAAAAAA/gEAAAAAAAAEAAAAICAgIA",
+							"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"unindent",
+							null,
+							"CQAAAGQCAAAAAAAAZAIAAAAAAAAEAAAAICAgIH0CAAAAAAAAfQIAAAAAAAAEAAAAICAgIH4CAAAAAAAAfgIAAAAAAAAEAAAAICAgIMUCAAAAAAAAxQIAAAAAAAAEAAAAICAgIMYCAAAAAAAAxgIAAAAAAAAEAAAAICAgIOMCAAAAAAAA4wIAAAAAAAAEAAAAICAgIOQCAAAAAAAA5AIAAAAAAAAEAAAAICAgIC4DAAAAAAAALgMAAAAAAAAEAAAAICAgIC8DAAAAAAAALwMAAAAAAAAEAAAAICAgIA",
+							"AQAAAAAAAAABAAAAkwMAAAAAAABkAgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -613,7 +649,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2387,
+								"buffer_size": 2349,
 								"regions":
 								{
 								},
@@ -631,7 +667,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 63.0,
+								"translation.y": 189.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,

@@ -11,20 +11,23 @@ This repository/set of files contains a custom **build system for Sublime Text**
 ---
 
 ## ✔ Usage
-    -Clone the repository
+Clone the repository
 
-```git clone https://github.com/mdiftekharahmed/Sublime_CP_Portable.git```
+```
+git clone https://github.com/mdiftekharahmed/Sublime_CP_Portable.git
+
+```
 
 
-    Run the sublime exe file
-    
-    Open the IO folder and input.txt, output.txt file for input and output
-    
-    Ctrl + B for compile and run
-    
-    It automatically takes input form IO/input.txt and ouput in IO/output.txt
-    
-    It automatically traces its location, no need to change anything
+Run the sublime exe file
+
+Open the IO folder and input.txt, output.txt file for input and output
+
+Ctrl + B for compile and run
+
+It automatically takes input form IO/input.txt and ouput in IO/output.txt
+
+It automatically traces its location, no need to change anything
 
 ---
 
