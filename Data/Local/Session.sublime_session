@@ -1,6 +1,11 @@
 {
 	"file_history":
 	[
+		"/G/Sublime_CP_Portable/README.md",
+		"/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
+		"/G/Codes/random_codes/nth.cpp",
+		"/G/Sublime_CP_Portable/IO/input.txt",
+		"/G/Sublime_CP_Portable/IO/output.txt",
 		"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
 		"/G/Sublime_Build_Win/IO/input.txt",
 		"/G/Sublime_Build_Win/IO/output.txt",
@@ -8,6 +13,10 @@
 	],
 	"folder_history":
 	[
+		"/D/Problem_Solving/00-Problems_By_Mostafa",
+		"/D/Contest_Codes",
+		"/D/Problem_Solving",
+		"/D/Sublime_CP_Portable_Win64/IO",
 		"/G/Sublime_CP_Portable/IO",
 		"/G/Sublime_Build_Win/IO",
 		"/G/Sublime_Build_Win/Data/Packages/User",
@@ -23,7 +32,7 @@
 	"last_version": 4192,
 	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1747384238,
+	"next_update_check": 1754633148,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -75,10 +84,14 @@
 			},
 			"file_history":
 			[
-				"/G/Sublime_CP_Portable/IO/output.txt",
-				"/G/Sublime_CP_Portable/IO/input.txt",
+				"/D/Sublime_CP_Portable_Win64/IO/output.txt",
+				"/D/Sublime_CP_Portable_Win64/IO/input.txt",
+				"/D/Problem_Solving/00-Problems_By_Mostafa/30_CF136-D2-A.cpp",
+				"/G/Sublime_CP_Portable/README.md",
 				"/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
 				"/G/Codes/random_codes/nth.cpp",
+				"/G/Sublime_CP_Portable/IO/input.txt",
+				"/G/Sublime_CP_Portable/IO/output.txt",
 				"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
 				"/G/Sublime_Build_Win/IO/input.txt",
 				"/G/Sublime_Build_Win/IO/output.txt",
@@ -122,7 +135,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -191,77 +204,169 @@
 			"buffers":
 			[
 				{
-					"file": "/G/Codes/random_codes/nth.cpp",
+					"file": "/D/Problem_Solving/00-Problems_By_Mostafa/29_CF791-D2-A.cpp",
 					"settings":
 					{
-						"buffer_size": 480,
+						"buffer_size": 604,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/D/Problem_Solving/00-Problems_By_Mostafa/30_CF136-D2-A.cpp",
+					"settings":
+					{
+						"buffer_size": 494,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					},
 					"undo_stack":
 					[
 						[
-							74,
+							2,
 							1,
-							"revert",
+							"insert",
+							{
+								"characters": "ps"
+							},
+							"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"insert_completion",
+							{
+								"completion": "/*===============================\nCode\t:\t$1\nTitle\t:\t\nAuthor\t:\tMd Iftekhar Ahmed\n=================================\nLink\t:\t\n=================================\n*/\n\n#include<bits/stdc++.h>\nusing namespace std;\n\n\nint main(){\n\tstd::ios::sync_with_stdio(0);\n\tstd::cin.tie(0);\n\tstd::cout.tie(0);\n\n\tint _;\n\tcin >> _;\n\twhile(_--){\n\n\t\t\n\t\t\n\n\t}\n\n\n\n\n\treturn 0;\n\t\n}\n\n//\t\t\t\tSolution Codes\n//===========================================\n\n\n",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "ps"
+							},
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAcHMAAAAAAAAAAKIBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"paste",
 							null,
-							"AwAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAA",
-							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAuQEAAAAAAAC5AQAAAAAAAAAAAAAAAPC/"
+							"AQAAACkAAAAAAAAAMwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							6,
 							1,
-							"revert",
-							null,
-							"AwAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAA",
-							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFwBAAAAAAAAXAEAAAAAAAAAAAAAAADwvw"
+							"insert",
+							{
+								"characters": "A"
+							},
+							"AQAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAoGZA"
 						],
 						[
-							62,
-							1,
-							"revert",
-							null,
-							"BgAAAAAAAAAAAAAAAAAAAAAAAADgAQAAI2luY2x1ZGU8Yml0cy9zdGRjKysuaD4KdXNpbmcgbmFtZXNwYWNlIHN0ZDsKI2RlZmluZSBsbCBsb25nIGxvbmcKI2RlZmluZSBwYiBwdXNoX2JhY2sKI2RlZmluZSBlYiBlbXBsYWNlX2JhY2sKI2RlZmluZSBhbGwoeCkgKHgpLmJlZ2luKCksICh4KS5lbmQoKQojZGVmaW5lIHJhbGwoeCkgKHgpLnJiZWdpbigpLCAoeCkucmVuZCgpCiNkZWZpbmUgcGlpIHBhaXI8aW50LCBpbnQ+CiNkZWZpbmUgdmkgdmVjdG9yPGludD4KI2RlZmluZSB2bGwgdmVjdG9yPGxsPgojZGVmaW5lIHZwaSB2ZWN0b3I8cGlpPgojZGVmaW5lIGVuZGwgJ1xuJwoKaW50IG1haW4oKXsKCXN0ZDo6aW9zOjpzeW5jX3dpdGhfc3RkaW8oMCk7CglzdGQ6OmNpbi50aWUoMCk7CglzdGQ6OmNvdXQudGllKDApOwoKCWludCBuO2Npbj4+bjsKCWRvdWJsZSBzdW0gPSAwOwoJZm9yKGludCBpPTA7aTxuO2krKyl7CgkJY291dDw8aTw8IiAiOwoJfQoKCglyZXR1cm4gMDsKCQoJCn0KAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAAAAAAAAAAAA4AEAAAAAAAAAAAAAAAAAAAAAAADgAQAAAAAAAAAAAAAAAAAAAAAAAOABAAAAAAAAAAAAAA",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAQAAAAAAADABAAAAAAAAAAAAAAAA8L8"
-						]
-					]
-				},
-				{
-					"file": "/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
-					"settings":
-					{
-						"buffer_size": 269,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/G/Sublime_CP_Portable/IO/input.txt",
-					"settings":
-					{
-						"buffer_size": 3,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					},
-					"undo_stack":
-					[
-						[
-							12,
+							7,
 							1,
 							"insert",
 							{
-								"characters": "20"
+								"characters": "  "
 							},
-							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAIAAAAxMAEAAAAAAAAAAgAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+							"AgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "Present"
+							},
+							"BwAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"paste",
+							null,
+							"AQAAAIoAAAAAAAAAtgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "cout<<_"
+							},
+							"BwAAAIMBAAAAAAAAhAEAAAAAAAAAAAAAhAEAAAAAAACFAQAAAAAAAAAAAACFAQAAAAAAAIYBAAAAAAAAAAAAAIYBAAAAAAAAhwEAAAAAAAAAAAAAhwEAAAAAAACIAQAAAAAAAAAAAACIAQAAAAAAAIkBAAAAAAAAAAAAAIkBAAAAAAAAigEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "<<"
+							},
+							"AgAAAIoBAAAAAAAAiwEAAAAAAAAAAAAAiwEAAAAAAACMAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAigEAAAAAAACKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAIwBAAAAAAAAjgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAI0BAAAAAAAAjgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAI8BAAAAAAAAkAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjwEAAAAAAACPAQAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
 				{
-					"file": "/G/Sublime_CP_Portable/IO/output.txt",
+					"file": "/D/Sublime_CP_Portable_Win64/IO/input.txt",
+					"settings":
+					{
+						"buffer_size": 3,
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/D/Sublime_CP_Portable_Win64/IO/output.txt",
 					"settings":
 					{
 						"buffer_size": 50,
@@ -269,14 +374,6 @@
 					},
 					"undo_stack":
 					[
-						[
-							9,
-							1,
-							"revert",
-							null,
-							"BAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAMCAxIDIgMyA0IDUgNiA3IDggOSAAAAAAAAAAADIAAAAAAAAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAADwvw"
-						]
 					]
 				}
 			],
@@ -312,8 +409,17 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/Problem_Solving/00-Problems_By_Mostafa"
+			],
 			"file_history":
 			[
+				"/G/Sublime_CP_Portable/README.md",
+				"/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
+				"/G/Codes/random_codes/nth.cpp",
+				"/G/Sublime_CP_Portable/IO/input.txt",
+				"/G/Sublime_CP_Portable/IO/output.txt",
 				"/G/Sublime_Build_Win/Data/Packages/User/cpp_17.sublime-build",
 				"/G/Sublime_Build_Win/IO/input.txt",
 				"/G/Sublime_Build_Win/IO/output.txt",
@@ -351,6 +457,21 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\Sublime_CP_Portable_Win64\\IO"
+				},
+				{
+					"path": "D:\\Problem_Solving"
+				},
+				{
+					"path": "D:\\Contest_Codes"
+				},
+				{
+					"path": "D:\\Problem_Solving\\00-Problems_By_Mostafa"
+				}
+			],
 			"groups":
 			[
 				{
@@ -358,19 +479,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/G/Codes/random_codes/nth.cpp",
-							"semi_transient": false,
+							"file": "/D/Problem_Solving/00-Problems_By_Mostafa/29_CF791-D2-A.cpp",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 480,
+								"buffer_size": 604,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										457,
-										457
+										340,
+										340
 									]
 								],
 								"settings":
@@ -389,30 +510,28 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/G/Sublime_CP_Portable/Data/Packages/User/cpp_17.sublime-build",
+							"file": "/D/Problem_Solving/00-Problems_By_Mostafa/30_CF136-D2-A.cpp",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 269,
+								"buffer_size": 494,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										268,
-										268
+										419,
+										419
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JSON/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/C++/C++.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 189.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -426,7 +545,7 @@
 					[
 						{
 							"buffer": 2,
-							"file": "/G/Sublime_CP_Portable/IO/input.txt",
+							"file": "/D/Sublime_CP_Portable_Win64/IO/input.txt",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -438,8 +557,8 @@
 								"selection":
 								[
 									[
-										2,
-										2
+										3,
+										3
 									]
 								],
 								"settings":
@@ -461,7 +580,7 @@
 					[
 						{
 							"buffer": 3,
-							"file": "/G/Sublime_CP_Portable/IO/output.txt",
+							"file": "/D/Sublime_CP_Portable_Win64/IO/output.txt",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -473,8 +592,8 @@
 								"selection":
 								[
 									[
-										20,
-										20
+										50,
+										50
 									]
 								],
 								"settings":
@@ -498,7 +617,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"layout":
 			{
@@ -526,7 +645,7 @@
 				"cols":
 				[
 					0.0,
-					0.540912937809,
+					0.748819233563,
 					1.0
 				],
 				"rows":
@@ -546,7 +665,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/cpp_17.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,760,839,101,1655,85c6df894131ca419a4223e4ae5e0f8b",
+			"position": "0,2,3,-32000,-32000,-1,-1,760,839,101,1655,957819acf1dccc488ef049a218b199c0",
 			"project": "",
 			"replace":
 			{
